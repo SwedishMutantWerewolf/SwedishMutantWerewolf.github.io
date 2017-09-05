@@ -16,3 +16,5 @@ Ok I'm done now.
 
 
 <a href="bertbullough.github.io">Visit Boit!</a>
+
+<h3> Now I am using this website for my programming class and it is amazing! So I hope to get more on here! </h3>
